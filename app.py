@@ -143,6 +143,8 @@ Email: {email}
                     {resume}
                 </div>
 
+                <button onclick="window.print()">Скачать резюме / הורדת קורות חיים</button>
+
             </body>
             </html>
             """
